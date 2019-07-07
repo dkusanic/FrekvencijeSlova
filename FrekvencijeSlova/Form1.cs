@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FrekvencijeSlova
 {
-    public partial class Form1 : Form
+    public partial class FrmFrekvencije : Form
     {
-        public Form1()
+        public FrmFrekvencije()
         {
             InitializeComponent();
         }
