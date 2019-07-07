@@ -39,6 +39,7 @@
             this.txtBoxUnos.Name = "txtBoxUnos";
             this.txtBoxUnos.Size = new System.Drawing.Size(647, 426);
             this.txtBoxUnos.TabIndex = 0;
+            this.txtBoxUnos.TextChanged += new System.EventHandler(this.txtBoxUnos_TextChanged);
             // 
             // txtBoxIspis
             // 
